@@ -1,6 +1,6 @@
 # Java Group Chat Application
 
-For compilation details please see the "ScreenShot IpOp.png".
+For execution details please see the "ScreenShot IpOp.png".
 
 Now it's time to clear some theoritical concepts.
 
